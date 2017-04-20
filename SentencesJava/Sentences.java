@@ -4,9 +4,6 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
 
-/**
- * Created by ricardo on 4/20/17.
- */
 public class Sentences {
     private static final String artigo_Masculino_Maiusculo = "O";
     private static final String artigo_Masculino_Plural_Maiusculo = "Os";
@@ -288,7 +285,7 @@ public class Sentences {
             }
             else {
                 System.out.println(s);
-                System.out.println("LUL Scrub :D \n");
+                System.out.println("Frase Gramaticamente Errada!\n");
             }
         }
     }
