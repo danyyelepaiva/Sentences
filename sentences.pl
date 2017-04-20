@@ -1,5 +1,5 @@
-sentenca --> frase_nom, frase_verb.
-sentenca --> frase_nom_p, frase_verb_p.
+sentence --> frase_nom, frase_verb.
+sentence --> frase_nom_p, frase_verb_p.
 
 frase_nom --> artigo_f, subst_f.
 frase_nom --> artigo_m, subst_m.
